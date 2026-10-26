@@ -1,0 +1,11 @@
+# Local environments, Python caches, and generated models
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+artifacts/
+.DS_Store
+.vscode/
+.idea/

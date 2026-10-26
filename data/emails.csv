@@ -1,0 +1,101 @@
+subject,sender,body,label
+URGENT: Verify your password,security-alert@account-check.example,Your account is locked. Click now to confirm your password before access expires.,spam
+Claim your bonus today,offers@reward-center.example,Congratulations you won a cash bonus. Open the link and submit details now.,spam
+Unpaid invoice action required,billing@invoice-review.example,Urgent payment needed. Download the attachment and update your bank card.,spam
+Your package is held,dispatch@parcel-tracking.example,Delivery failed. Click now to pay a small redelivery fee.,spam
+Password reset warning,support@secure-helpdesk.example,We detected unusual activity. Reply with your password to restore access.,spam
+Limited time lottery winner,draw@lucky-prizes.example,You have been selected for a prize. Send your account information to receive funds.,spam
+Immediate verification needed,notice@identity-check.example,Verify your identity in the next ten minutes or your account will close.,spam
+You have an unclaimed gift,gifts@promo-mailer.example,Click here to redeem a free smartphone before midnight.,spam
+Suspicious sign in reported,alerts@login-portal.example,Urgent security notice. Enter your password using the supplied link to stop suspension.,spam
+Final notice overdue tax,refunds@tax-help.example,We can release your refund today after you supply your banking details.,spam
+Crypto profit guaranteed,investment@fast-returns.example,Earn guaranteed returns by transferring funds to our wallet now.,spam
+Congratulations on your win,prize@winner-desk.example,Your email was chosen for an exclusive prize. Claim with a processing fee.,spam
+Account disabled in one hour,help@account-restore.example,Click now and log in to prevent permanent deactivation.,spam
+Cheap medicine offer,sales@online-health-deals.example,Massive discount on pills. Buy immediately using our private checkout.,spam
+Confirm your card details,verification@payment-alert.example,Urgent action. Reenter your card number and password at this external page.,spam
+Exclusive investment invitation,team@wealth-fast.example,Double your money quickly. Join the secret offer today.,spam
+Free gift card approval,support@coupon-prize.example,You are eligible for a free gift card. Fill in your personal information.,spam
+Urgent payroll correction,payroll@salary-update.example,Your salary cannot be paid until you update your bank account at this link.,spam
+Bank transfer pending,transfers@money-release.example,Release your transfer by paying an immediate handling fee.,spam
+Unlock premium access,members@premium-offer.example,Click now for lifetime access. Enter payment details to activate.,spam
+Security team needs your code,verify@code-confirm.example,Forward the one time login code to our team to secure your mailbox.,spam
+Business proposal with advance fee,agents@business-windfall.example,We need a partner to receive funds. Pay initial charges first.,spam
+Exclusive voucher expires soon,vouchers@quick-coupon.example,Urgent offer available only for minutes. Click here to claim it.,spam
+Claim your tax rebate,notifications@rebate-center.example,You qualify for a large refund. Verify your identity and card online.,spam
+Account recovery notice,helpdesk@webmail-reset.example,Your password expired. Open our portal and submit your current password.,spam
+Mystery shopper job available,jobs@easy-cash-offer.example,Get paid instantly for easy tasks. Send your ID and bank details.,spam
+Winner of international drawing,awards@prize-committee.example,A large payout awaits you after you cover an administrative fee.,spam
+Subscription canceled unexpectedly,services@subscription-save.example,Reactivate immediately by clicking the link and supplying your credit card.,spam
+New message requires sign in,messages@secure-chat-review.example,You have a secret message. Click now to authenticate on our website.,spam
+Loan approved instantly,lending@instant-loan.example,No credit check required. Pay a processing deposit to access funds.,spam
+Protect your cloud documents,notices@cloud-doc-check.example,Urgent warning. Enter credentials at the link to avoid file deletion.,spam
+Price drop on miracle product,exclusive@fast-sale.example,Order our miracle supplement now for a special discount.,spam
+Payroll documents enclosed,hr@confidential-forms.example,Open this executable attachment to view your new salary statement.,spam
+Your storage quota exceeded,quota@storage-protection.example,All files will disappear today unless you confirm your password.,spam
+Action required: delivery charge,courier@shipping-payment.example,Click now and provide card details to schedule delivery of your parcel.,spam
+Hidden inheritance waiting,agent@inheritance-desk.example,You are the beneficiary of a fortune. Reply with your passport scan.,spam
+Immediate wire transfer request,ceo@urgent-transfer.example,I am in a meeting. Send money to this new account without calling me.,spam
+Best deal on luxury watches,market@clearance-blast.example,Buy premium watches at ninety percent off for the next hour.,spam
+Your banking token is invalid,secure@token-refresh.example,Click the verification button and provide your secret code.,spam
+VIP member winner notice,club@vip-awards.example,You won free travel. Pay the booking fee to receive the tickets.,spam
+Legal warning final demand,legal@urgent-claim.example,Urgent lawsuit response required. Open the unknown attachment now.,spam
+Automatic refund available,claims@refund-portal.example,Submit your password and credit card to receive an immediate refund.,spam
+Activate your reward points,points@points-redeem.example,Click now to collect bonus points before your balance expires.,spam
+Private deal invitation,offers@members-only-deal.example,Secret opportunity for fast earnings. Provide your personal details to join.,spam
+Email mailbox migration required,admin@webmail-verify.example,Enter your login password at our migration portal or lose email access.,spam
+You qualify for compensation,settlement@payout-claim.example,Complete our identity form and pay a small clearance fee now.,spam
+Claim your free airline tickets,travel@ticket-prize.example,Your free flight vouchers are waiting. Verify your credit card to proceed.,spam
+Remote job instant payment,recruiting@easy-income.example,Start earning today after sending a registration fee and photo ID.,spam
+Recover deleted messages now,system@restore-mailbox.example,Urgent account alert. Click now to restore messages with your password.,spam
+Special customer loyalty reward,loyalty@customer-bonus.example,You have been chosen for a free cash gift. Confirm bank details immediately.,spam
+Team meeting moved to Tuesday,alex@engineering.example,Our project sync starts at 10 tomorrow. Please review the agenda beforehand.,ham
+Invoice for October services,accounts@consultancy.example,Attached is the October invoice you requested. The usual payment terms apply.,ham
+Lunch reservation confirmed,bookings@restaurant.example,Your table for four is reserved on Friday at noon. See you then.,ham
+Quarterly report review,priya@company.example,Could you review the sales figures and leave comments before our meeting?,ham
+New assignment instructions,lecturer@university.example,The lab exercise is now available on the course page. Submission closes next week.,ham
+Password policy documentation,it-team@company.example,Please read the updated password policy. Never share a password by email.,ham
+Urgent production issue summary,ops@company.example,The internal dashboard has a service error. The on-call engineer is investigating.,ham
+Weekly class schedule,coordinator@university.example,Tomorrow we cover supervised learning and practice with a small dataset.,ham
+Project kickoff notes,manager@company.example,I uploaded the meeting notes and updated the timeline in our shared drive.,ham
+Travel itinerary attached,travel-desk@company.example,Here are the train reservations for the conference approved last month.,ham
+Your library book is ready,library@university.example,The requested book is available for pickup until Thursday afternoon.,ham
+Family dinner plans,maria@family.example,We are cooking together on Sunday. Please let us know what time suits you.,ham
+Your support ticket update,support@software-vendor.example,The bug is fixed in version 2.4 and the release notes describe the change.,ham
+Monthly newsletter,news@science-club.example,This issue includes research highlights and the next community meeting.,ham
+Code review requested,dev@engineering.example,Could you check my pull request and review the new unit tests today?,ham
+Payment receipt issued,billing@approved-provider.example,This is the receipt for the plan you purchased. No further action is required.,ham
+Workshop room changed,events@university.example,The Python workshop now takes place in room B12 on Wednesday.,ham
+Click now to view project demo,teammate@engineering.example,I added the demo link to our internal project board for convenience.,ham
+Password reset completed,security@company.example,Your requested password reset has finished. Contact the helpdesk if this was unexpected.,ham
+Meeting minutes from Monday,sarah@company.example,We agreed to prioritize the API upgrade and share a status report next week.,ham
+Reminder: annual leave form,hr@company.example,Please submit your leave dates through the established employee portal.,ham
+Assignment feedback available,tutor@university.example,I published comments on your latest lab submission. Review the rubric when possible.,ham
+Changes to train timetable,notifications@rail-service.example,Your normal commuter train will depart five minutes earlier next week.,ham
+Customer follow-up call,sales@company.example,The client can meet Thursday afternoon to discuss the product demo.,ham
+Updated API specification,architect@engineering.example,The latest API contract includes two new optional fields and examples.,ham
+Urgent request for meeting notes,colleague@company.example,Can you send the approved minutes before the steering committee meets?,ham
+Security awareness workshop,training@company.example,In the training we will examine fake messages saying urgent password and click now.,ham
+Course recording available,media@university.example,The first lecture recording has been uploaded to the course workspace.,ham
+Conference session registration,events@conference.example,Your registration is complete and a calendar invitation is attached.,ham
+Bug fix deployed successfully,release@engineering.example,Version 1.8 is running in staging and the smoke tests passed.,ham
+Invitation to project retrospective,scrum@company.example,Join the sprint retrospective on Monday to discuss improvements.,ham
+Doctor appointment reminder,appointments@clinic.example,Your scheduled appointment is next Wednesday at 15:30.,ham
+Shared folder access granted,admin@company.example,You can now access the course materials folder using the usual account.,ham
+Research paper discussion,professor@university.example,Please read the assigned paper and prepare two questions for the seminar.,ham
+Presentation rehearsal plan,james@company.example,We will rehearse the client presentation at 14:00 in meeting room A.,ham
+Reminder to rotate test credentials,it-team@engineering.example,For the lab environment update only the dummy test password described in the guide.,ham
+Data export complete,analytics@company.example,The requested CSV export is available in the approved internal dashboard.,ham
+Receipt for office equipment,purchases@company.example,Your order for two monitors was delivered and the receipt is filed.,ham
+Team volunteer event,community@company.example,We are collecting names for the Saturday cleanup. Participation is optional.,ham
+Welcome to the new semester,registrar@university.example,Classes begin next Monday and the timetable is attached.,ham
+Customer meeting rescheduled,calendar@company.example,The review call moved to Friday and an updated invitation was sent.,ham
+Reminder: code freeze tonight,release-manager@engineering.example,No deployments after 18:00 unless approved by the release lead.,ham
+New repository access,git-admin@company.example,You now have access to the training repository. Check the README before class.,ham
+Practice quiz for next lecture,tutor@university.example,The optional quiz covers regression and evaluation metrics from class.,ham
+Printer maintenance scheduled,facilities@company.example,The third floor printer will be offline for maintenance tomorrow morning.,ham
+Project milestone achieved,pm@company.example,The integration tests passed and the next release candidate is ready.,ham
+Draft proposal attached,consultant@partner.example,Please review the revised statement of work and share your feedback.,ham
+Urgent school pickup change,parent@family.example,The school called to move pickup earlier today. Please confirm you saw this.,ham
+Testing phishing examples,instructor@university.example,The sample dataset includes click now and password phrases in safe examples.,ham
+Customer satisfaction summary,research@company.example,Attached is the latest survey summary with responses grouped by topic.,ham
